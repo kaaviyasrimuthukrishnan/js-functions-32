@@ -171,3 +171,4 @@ function prime(num1)
 }
 prime(num1,count);
 //output:no
+ 
